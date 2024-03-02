@@ -942,7 +942,7 @@ form label {
   display: inline-block;
   width: 100px;
   height: 100px;
-  background: rgba(241, 78, 149, 0.8);
+  background: rgba(143,151,121);
   margin: 0 4px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -1676,8 +1676,8 @@ form label {
   border: 2px solid #800000;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #f366a3 !important;
-  border-color: #f366a3 !important;
+  background: #FFDAB9 !important;
+  border-color: #FFDAB9 !important;
 }
 .btn-primary.btn-outline {
   background: transparent;
